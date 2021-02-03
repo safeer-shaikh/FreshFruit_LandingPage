@@ -6,6 +6,7 @@
 .pnp.js
 /src/Assets/icons
 /src/Assets/fonts
+/src/Assets/fontawesome-pro-5.15.1-web
 
 # testing
 /coverage

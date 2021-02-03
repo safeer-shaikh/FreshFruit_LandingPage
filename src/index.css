@@ -1,3 +1,75 @@
+@font-face{
+  font-family: Raleway-Black;
+  src: url('./Assets/fonts/Raleway-Black.ttf');
+}
+@font-face{
+  font-family: Raleway-BlackItalic;
+  src: url('./Assets/fonts/Raleway-BlackItalic.ttf');
+}
+@font-face{
+  font-family: Raleway-Bold;
+  src: url('./Assets/fonts/Raleway-Bold.ttf');
+}
+@font-face{
+  font-family: Raleway-BoldItalic;
+  src: url('./Assets/fonts/Raleway-BoldItalic.ttf');
+}
+@font-face{
+  font-family: Raleway-ExtraBold;
+  src: url('./Assets/fonts/Raleway-ExtraBold.ttf');
+}
+@font-face{
+  font-family: Raleway-ExtraBoldItalic;
+  src: url('./Assets/fonts/Raleway-ExtraBoldItalic.ttf');
+}
+@font-face{
+  font-family: Raleway-ExtraLight;
+  src: url('./Assets/fonts/Raleway-ExtraLight.ttf');
+}
+@font-face{
+  font-family: Raleway-ExtraLightItalic;
+  src: url('./Assets/fonts/Raleway-ExtraLightItalic.ttf');
+}
+@font-face{
+  font-family: Raleway-Italic;
+  src: url('./Assets/fonts/Raleway-Italic.ttf');
+}
+@font-face{
+  font-family: Raleway-Light;
+  src: url('./Assets/fonts/Raleway-Light.ttf');
+}
+@font-face{
+  font-family: Raleway-LightItalic;
+  src: url('./Assets/fonts/Raleway-LightItalic.ttf');
+}
+@font-face{
+  font-family: Raleway-Medium;
+  src: url('./Assets/fonts/Raleway-Medium.ttf');
+}
+@font-face{
+  font-family: Raleway-MediumItalic;
+  src: url('./Assets/fonts/Raleway-MediumItalic.ttf');
+}
+@font-face{
+  font-family: Raleway-Regular;
+  src: url('./Assets/fonts/Raleway-Regular.ttf');
+}
+@font-face{
+  font-family: Raleway-SemiBold;
+  src: url('./Assets/fonts/Raleway-SemiBold.ttf');
+}
+@font-face{
+  font-family: Raleway-SemiBoldItalic;
+  src: url('./Assets/fonts/Raleway-SemiBoldItalic.ttf');
+}
+@font-face{
+  font-family: Raleway-Thin;
+  src: url('./Assets/fonts/Raleway-Thin.ttf');
+}
+@font-face{
+  font-family: Raleway-ThinItalic;
+  src: url('./Assets/fonts/Raleway-ThinItalic.ttf');
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
